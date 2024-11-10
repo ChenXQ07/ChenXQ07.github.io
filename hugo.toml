@@ -15,7 +15,7 @@ weight = 10
 [languages.en.params.paige]
 copyright = "© Will Faught"
 description = "Powerful, pliable pixel perfection"
-title = "Paige"
+title = "Welcome"
 
 [markup.goldmark.renderer]
 unsafe = true

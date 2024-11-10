@@ -1,7 +1,7 @@
 +++
 authors = ["author-demo"]
 categories = ["content", "paige"]
-description = "A front matter link."
+description = "This is a LINK."
 link = "https://willfaught.com/paige"
 tags = ["link"]
 title = "Link"
